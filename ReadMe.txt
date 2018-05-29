@@ -1,12 +1,10 @@
 2012-08-09
 
-Test ¿ëÀ¸·Î »ç¿ëÇÑ www.GitHub.com ÀÇ Repository
+Test ìš©ìœ¼ë¡œ ì‚¬ìš©í•œ www.GitHub.com ì˜ Repository
 
-Git ¼³Á¤
-Name : sokim
-Email : neogaurian@gmail.com
+Git ì„¤ì •
 
 
-Git °èÁ¤¸í : gaurian
+Git ê³„ì •ëª…
 https://github.com/gaurian/TEST.git
 
